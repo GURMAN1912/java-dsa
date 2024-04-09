@@ -1,4 +1,3 @@
-package basic;
 public class TimeComplexityDemo {
     public static void main(String[] args) {
         double now=System.currentTimeMillis();
