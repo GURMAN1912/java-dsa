@@ -1,4 +1,0 @@
-
-        list1.displayBackward();
-    }
-}
