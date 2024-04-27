@@ -21,7 +21,7 @@ public class BinaryNumber {
         BinaryNumber b=new BinaryNumber();
         String[] arr=b.genrateBinaryNumber(4);
         for(int i=0;i<4;i++){
-            System.out.print(arr[i]+" ");
+            System.out.print(arr[i]+"");
         }
     }
 }
