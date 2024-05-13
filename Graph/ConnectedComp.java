@@ -5,7 +5,7 @@ public class ConnectedComp {
     private int V;
     private int E;
     private LinkedList<Integer>[] adj;
-    public DFS(int nodes){
+    public ConnectedComp(int nodes){
         this.E=0;
         this.V=nodes;
         this.adj=new LinkedList[nodes];
